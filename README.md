@@ -2,7 +2,7 @@
   :zap: Hi There, I'm Kaleb! :zap:
 </h1>
 
-I am a software developer with a passion for creating beautiful and intuitive user experiences. My expertise lies in front-end development and I have a knack for bringing ideas to life using the latest technologies.
+I am a software developer with a passion for creating beautiful and intuitive user experiences. My expertise lies in full-stack development and I have a knack for bringing ideas to life using the latest technologies.
 
 ## 🔧 Languages and Tools 🛠️
 
